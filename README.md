@@ -1,4 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=1000&color=37C0C9&center=false&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+Aloukik!)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
+
+👨‍💻 Computer Science and Engineering Sophomore | 🌐 Full-Stack Developer<br><br>
+💻 Strong Background in Web Development | 🐍 Proficient in Python Programming<br><br>
+🛠️ Specialize in Frontend and Backend Development | 🌐 Experience in E-commerce Platforms<br><br>
+🌦️ Developed Weather Forecasting Applications | 🚀 Leadership Experience as IEEE Student Branch Chairperson<br><br>
+🎓 Currently studying at Amrita Vishwa Vidyapeetham | 🚀 Seeking Internship Opportunities<br><br>
+🌱 Eager to contribute meaningfully and grow professionally<br><br>
 
 <!--
 **aloukikjoshi/aloukikjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
