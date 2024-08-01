@@ -4,7 +4,7 @@
 
 👨‍💻 Computer Science and Engineering Sophomore | 🌐 Learning Full Stack Development<br><br>
 💻 Strong Background in Web Development | 🐍 Proficient in Python Programming<br><br>
-🛠️ Specialize in Frontend and Backend Development | 🌐 Experience in E-commerce Platforms<br><br>
+🛠️ Specialize in Frontend and Backend Development | GFG Campus Mantri<br><br>
 🌦️ Developed Weather Forecasting Applications | 🚀 Leadership Experience as IEEE Student Branch Chairperson<br><br>
 🚀 Presently an Associate Lead at [MLSA-AVV-Amaravati](https://github.com/MLSA-AVV-Amaravati).<br><br>
 🎓 Currently studying at Amrita Vishwa Vidyapeetham | 🚀 Seeking Internship Opportunities<br><br>
