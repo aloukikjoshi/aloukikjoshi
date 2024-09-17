@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
 
-👨‍💻 Computer Science and Engineering Sophomore | 🌐 Learning Full Stack Development<br><br>
+👨‍💻 Computer Science and Engineering Junior | 🌐 Learning Full Stack Development<br><br>
 💻 Strong Background in Web Development | 🐍 Proficient in Python Programming<br><br>
 🛠️ Specialize in Frontend and Backend Development | GFG Campus Mantri<br><br>
 🌦️ Developed Weather Forecasting Applications | 🚀 Leadership Experience as IEEE Student Branch Chairperson<br><br>
