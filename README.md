@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloukikjoshi&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30)
 
-[![](https://visitcount.itsvg.in/api?id=Aloukikjoshi&icon=1&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=aloukikjoshi)
