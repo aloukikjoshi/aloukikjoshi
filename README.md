@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloukikjoshi&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30)
-
-![](https://komarev.com/ghpvc/?username=aloukikjoshi)
