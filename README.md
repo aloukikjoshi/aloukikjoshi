@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=37C0C9&center=true&vCenter=true&random=false&width=500&lines=Building+Autonomous+AI+Agents;Freelance+Full+Stack+Developer;Exploring+RAG+%26+Vector+DBs;Graduating+Class+of+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=37C0C9&center=true&vCenter=true&random=false&width=500&lines=Building+Autonomous+AI+Agents;Exploring+RAG+%26+Vector+DBs" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <h3>👨‍💻 Aloukik Joshi</h3>
   <p>
-    <b>Final Year CS Student @ Amrita Vishwa Vidyapeetham</b><br/>
-    Bridging the gap between <b>Robust Software Engineering</b> and <b>AI Automation</b>.
+    <b>Final Year CS Student @ Amrita Vishwa Vidyapeetham</b>
   </p>
   
   <p>
-    I am a <b>Freelance Web Developer</b> with experience building production-grade apps for US-based clients.<br/>
-    Currently, I am obsessed with solving <b>latency in RAG systems</b> and building AI agents that act as a "Second Brain."
+    I have professional experience as a <b>Freelance Web Developer</b> for US-based clients.<br/>
+    Currently, I am working on <b>AI Automation</b> and building systems using <b>RAG (Retrieval-Augmented Generation)</b> pipelines.
   </p>
 
   <a href="https://linkedin.com/in/aloukikjoshi" target="_blank">
@@ -29,7 +28,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express,nextjs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express" alt="Frameworks" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git" alt="Tools" />
   <br/><br/>
@@ -44,10 +43,10 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` `Gemini` | A **"Second Brain"** study companion. It uses a custom RAG pipeline to ingest YouTube videos, remember context, and generate quizzes/summaries. |
-| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | A secure blogging platform with **granular access control**. Features JWT auth and a normalized relational schema for strict data ownership. |
-| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | A live geolocation tracking app. Uses bidirectional WebSockets to plot user movements on OpenStreetMap in real-time. |
-| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance Work:** Built the official corporate site and recruitment portal for a US-based consulting firm. |
+| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` | A study tool that summarizes YouTube videos and generates quizzes using a RAG pipeline and Vector Database. |
+| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | A full-stack blogging platform. Features granular access control, JWT authentication, and a normalized relational database schema. |
+| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | A geolocation tracking application using WebSockets to plot device movements on a map in real-time. |
+| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance Work:** Developed the corporate website and recruitment portal for a US-based consulting firm. |
 
 <br/>
 
@@ -60,9 +59,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark" alt="Most Commits" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30" alt="Productive Time" />
-</div>
-
----
-<div align="center">
-  <i>"I don't just write code; I build systems that remember, reason, and act."</i>
 </div>
