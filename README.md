@@ -1,62 +1,56 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=37C0C9&center=true&vCenter=true&random=false&width=500&lines=Building+Autonomous+AI+Agents;Exploring+RAG+%26+Vector+DBs" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=5000&pause=1000&color=37C0C9&center=false&vCenter=true&random=true&width=435&lines=Hi!)](https://git.io/typing-svg)
 
-<div align="center">
-  <h3>👨‍💻 Aloukik Joshi</h3>
-  <p>
-    <b>Final Year CS Student @ Amrita Vishwa Vidyapeetham</b>
-  </p>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
+
+👨‍💻 **Final Year CS Student** @ Amrita Vishwa Vidyapeetham  
+💼 **Worked as Freelance Web Developer** (Adrisha IT, US Remote)  
+🌐 **Full Stack & AI:** Balancing robust software engineering with modern AI automation.  
+🛠️ **Building:** `Samjho AI` (RAG Agent), `commonMinds` (Blogging Platform), `Device Tracker`  
+🌱 **Focus:** Solving latency in AI pipelines & building scalable backend systems.
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
+
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="60" height="60" />
   
-  <p>
-    I have professional experience as a <b>Freelance Web Developer</b> for US-based clients.<br/>
-    Currently, I am working on <b>AI Automation</b> and building systems using <b>RAG (Retrieval-Augmented Generation)</b> pipelines.
-  </p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60" />
 
-  <a href="https://linkedin.com/in/aloukikjoshi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="FastAPI" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+  
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
 </div>
 
-<br/>
-
-# ⚡ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express" alt="Frameworks" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git" alt="Tools" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF655A?style=for-the-badge&logo=n8n&logoColor=white" />
+### 🤖 AI & Automation Stack
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/n8n-Workflow-FF655A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-Vector_DB-151515?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-LPU_Inference-F55036?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
-<br/>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%9A%80+Featured+Works%3A)](https://git.io/typing-svg)
 
-# 🚀 Featured Projects
-
-| Project | Stack | Description |
+| Project | Tech Stack | Brief |
 | :--- | :--- | :--- |
-| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` | A study tool that summarizes YouTube videos and generates quizzes using a RAG pipeline and Vector Database. |
-| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | A full-stack blogging platform. Features granular access control, JWT authentication, and a normalized relational database schema. |
-| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | A geolocation tracking application using WebSockets to plot device movements on a map in real-time. |
-| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance Work:** Developed the corporate website and recruitment portal for a US-based consulting firm. |
+| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` | A "Second Brain" study tool. Uses RAG to ingest videos, remember context, and generate quizzes. |
+| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | Secure blogging platform with granular access control and normalized DB schema. |
+| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | Live geolocation tracking app using bidirectional WebSockets. |
+| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance:** Corporate website & recruitment portal for a US client. |
 
-<br/>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloukikjoshi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloukikjoshi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30)
 
-# 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark" alt="Profile Details" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloukikjoshi&theme=github_dark" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark" alt="Most Commits" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30" alt="Productive Time" />
-</div>
+**_Building, learning, and always ready for the next big challenge!_**
