@@ -1,38 +1,68 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=5000&pause=1000&color=37C0C9&center=false&vCenter=true&random=true&width=435&lines=Hi!)](https://git.io/typing-svg)
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
-
-👨‍💻 Final Year Computer Science Student | 🌐 Passionate Full Stack Developer  
-💻 Strong in Backend & Web Technologies | 🐍 Python Enthusiast  
-🛠️ Built real-world projects: Blogi, Stock Tracker, Device Tracker  
-🎓 Amrita Vishwa Vidyapeetham | 🌱 Always learning & ready for new challenges
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="100" height="100" />
-</div>
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="100" height="100" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=37C0C9&center=true&vCenter=true&random=false&width=500&lines=Building+Autonomous+AI+Agents;Freelance+Full+Stack+Developer;Exploring+RAG+%26+Vector+DBs;Graduating+Class+of+2025" alt="Typing SVG" />
 </div>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloukikjoshi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aloukikjoshi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30)
+<div align="center">
+  <h3>👨‍💻 Aloukik Joshi</h3>
+  <p>
+    <b>Final Year CS Student @ Amrita Vishwa Vidyapeetham</b><br/>
+    Bridging the gap between <b>Robust Software Engineering</b> and <b>AI Automation</b>.
+  </p>
+  
+  <p>
+    I am a <b>Freelance Web Developer</b> with experience building production-grade apps for US-based clients.<br/>
+    Currently, I am obsessed with solving <b>latency in RAG systems</b> and building AI agents that act as a "Second Brain."
+  </p>
+
+  <a href="https://linkedin.com/in/aloukikjoshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+# ⚡ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express,nextjs" alt="Frameworks" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git" alt="Tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF655A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-151515?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
+
+<br/>
+
+# 🚀 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` `Gemini` | A **"Second Brain"** study companion. It uses a custom RAG pipeline to ingest YouTube videos, remember context, and generate quizzes/summaries. |
+| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | A secure blogging platform with **granular access control**. Features JWT auth and a normalized relational schema for strict data ownership. |
+| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | A live geolocation tracking app. Uses bidirectional WebSockets to plot user movements on OpenStreetMap in real-time. |
+| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance Work:** Built the official corporate site and recruitment portal for a US-based consulting firm. |
+
+<br/>
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark" alt="Profile Details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloukikjoshi&theme=github_dark" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aloukikjoshi&theme=github_dark" alt="Most Commits" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aloukikjoshi&theme=github_dark&utcOffset=5.30" alt="Productive Time" />
+</div>
 
 ---
-
-**_Building, learning, and always ready for the next big challenge!_**
+<div align="center">
+  <i>"I don't just write code; I build systems that remember, reason, and act."</i>
+</div>
