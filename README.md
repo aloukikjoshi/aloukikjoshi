@@ -37,13 +37,6 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%9A%80+Featured+Works%3A)](https://git.io/typing-svg)
 
-| Project | Tech Stack | Brief |
-| :--- | :--- | :--- |
-| **🤖 Samjho AI** | `n8n` `Pinecone` `Groq` | A "Second Brain" study tool. Uses RAG to ingest videos, remember context, and generate quizzes. |
-| **📝 commonMinds** | `React` `FastAPI` `PostgreSQL` | Secure blogging platform with granular access control and normalized DB schema. |
-| **📍 Realtime Tracker** | `Node.js` `Socket.io` `Leaflet` | Live geolocation tracking app using bidirectional WebSockets. |
-| **💼 Adrisha IT** | `React` `CMS` `Node.js` | **Freelance:** Corporate website & recruitment portal for a US client. |
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aloukikjoshi&theme=github_dark)
