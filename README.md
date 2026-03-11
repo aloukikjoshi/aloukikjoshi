@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%9A%80+Featured+Works%3A)](https://git.io/typing-svg)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloukikjoshi&theme=github_dark)<br/>
